@@ -7,20 +7,25 @@
     <title>Greenville Academy</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/tablet.css">
+    <link rel="stylesheet" href="styles/mobile.css">
 </head>
 <body>
     <nav>
-        <div class="logo">
-            <h1>Greenville</h1>
-            <p>Academy</p>
+        <div class="navbar">
+            <div class="logo">
+                <h1>Greenville</h1>
+                <p>Academy</p>
+            </div>
+            <i class="fa-solid fa-bars" style="color: #000000;" id="navLogo"></i>
+            <ul class="nav">
+                <li><a href="/index.html" class="current">Home</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="#services">Our Services</a></li>
+                <li><a href="#country">Countries</a></li>
+                <li><a href="#" class="button">Apply</a></li>
+            </ul>
         </div>
-        <ul class="nav">
-            <li><a href="/index.html" class="current">Home</a></li>
-            <li><a href="/about.html">About</a></li>
-            <li><a href="#services">Our Services</a></li>
-            <li><a href="#country">Countries</a></li>
-            <li><a href="#" class="button">Apply</a></li>
-        </ul>
     </nav>
     <section class="hero">
         <div class="content">
@@ -168,5 +173,6 @@
         </div>
         <p>© 2023 Greenville Academy.</p>
     </footer>
+    <script src="script/navbar.js"></script>
 </body>
 </html>

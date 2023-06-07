@@ -1,0 +1,213 @@
+@media screen and (max-width: 576px) {
+    nav {
+        padding: 0px 20px;
+    }
+
+    .logo h1 {
+        font-size: 14px;
+    }
+
+    .nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        right: 20px;
+        gap: 5px;
+        top: 40px;
+        padding: 5px 20px 15px;
+
+        background: #717CFF;
+        border-radius: 10px;
+    }
+
+    .navbar i {
+        display: block;
+        margin: 0px 10px;
+    }
+
+    .nav a {
+        font-size: 11px;
+        color: #fafafa;
+    }
+
+    .nav .current {
+        border-bottom: 2px solid #fafafa;
+    }
+
+    .nav .button {
+        border: 2px solid #fafafa;
+    }
+
+    .hero {
+        padding: 70px 20px;
+    }
+
+    .content {
+        gap: 10px;
+        width: 100%;
+    }
+
+    .content h3 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .content p {
+        font-size: 16px;
+    }
+
+    .content a {
+        font-size: 16px;
+    }
+
+    .partners {
+        padding: 30px 20px;
+    }
+
+    .partners h3 {
+        font-size: 15px;
+        gap: 20px;
+    }
+
+    .partner-images {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .services {
+        padding: 30px 20px;
+        gap: 30px;
+    }
+
+    .heading {
+        gap: 5px;
+    }
+
+    .heading h3 {
+        font-size: 20px;
+    }
+
+    .heading p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .split1, .split2 {
+        flex-direction: column;
+    }
+
+    .service-card {
+        padding: 10px;
+        gap: 10px;
+    }
+
+    .service-card h4 {
+        font-size: 18px;
+    }
+
+    .service-card p {
+        font-size: 12px;
+    }
+
+    .service-card img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .news {
+        padding: 30px 20px;
+    }
+
+    .news-cards {
+        flex-direction: column;
+    }
+
+    .data .date {
+        font-size: 12px;
+    }
+
+    .data p {
+        font-size: 18px;
+    }
+
+    .country {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .countries {
+        flex-direction: column;
+    }
+
+    .country-card h4 {
+        font-size: 18px;
+    }
+
+    .country-card p {
+        font-size: 12px;
+    }
+
+    .subfooter {
+        padding: 20px;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .subfooter p {
+        font-size: 15px;
+    }
+
+    .subfooter a {
+        font-size: 14px;
+    }
+
+    footer {
+        padding: 20px;
+    }
+
+    .footer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .footer-logo h1 {
+        font-size: 15px;
+    }
+
+    .footer-logo p {
+        font-size: 9px;
+    }
+
+    .address p {
+        font-size: 10px;
+    }
+
+    .quick-link {
+        gap: 5px;
+    }
+
+    .quick-link a {
+        font-size: 10px;
+    }
+
+    footer p {
+        font-size: 10px;
+    }
+
+    .about {
+        padding: 40px 20px 20px;
+    }
+
+    .about p {
+        font-size: 14px;
+    }
+
+    .mission {
+        padding: 0px 20px 20px;
+    }
+
+    .mission p {
+        font-size: 14px;
+    }
+}

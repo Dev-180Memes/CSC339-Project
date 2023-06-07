@@ -1,0 +1,229 @@
+@media screen and (max-width: 768px) {
+    nav {
+        padding: 0px 24px;
+    }
+
+    .navbar {
+        padding: 5px 0px;
+    }
+
+    .logo h1 {
+        font-size: 16px;
+    }
+
+    .logo p {
+        font-size: 10px;
+    }
+
+    .nav {
+        gap: 30px;
+    }
+
+    .nav a {
+        font-size: 13px;
+    }
+
+    .nav .button {
+        padding: 5px 10px;
+    }
+
+    .hero {
+        padding: 100px 24px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .content {
+        gap: 10px;
+        align-items: center;
+        width: 80%;
+    }
+
+    .content h3 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .content p {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .content a {
+        font-size: 18px;
+    }
+
+    .hero img {
+        display: none;
+    }
+
+    .partners {
+        padding: 30px 24px;
+    }
+
+    .partners h3 {
+        font-size: 19px;
+    }
+
+    .partner-images {
+        gap: 30px;
+    }
+
+    .partner-images img {
+        width: 100px;
+    }
+
+    .services {
+        padding: 50px 24px;
+        gap: 50px;
+    }
+
+    .heading {
+        gap: 10px;
+    }
+
+    .heading h3 {
+        font-size: 25px;
+    }
+
+    .heading p {
+        font-size: 16px;
+        width: 80%;
+    }
+    .services-split {
+        gap: 20px;
+    }
+
+    .split1, .split2 {
+        gap: 20px;
+    }
+
+    .service-card {
+        gap: 15px;
+        padding: 15px;
+    }
+
+    .service-card h4 {
+        font-size: 20px;
+    }
+
+    .service-card p {
+        font-size: 14px;
+    }
+
+    .service-card img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .news {
+        padding: 30px 24px;
+        gap: 30px;
+    }
+
+    .news-cards {
+        gap: 20px;
+    }
+    
+    .news-cards .data {
+        gap: 0px;
+        padding: 10px 10px 30px;
+    }
+
+    .data .date {
+        font-size: 14px;
+    }
+
+    .data p {
+        font-size: 20px;
+    }
+
+    .country {
+        padding: 30px 24px;
+        gap: 40px;
+    }
+
+    .countries {
+        gap: 20px;
+    }
+
+    .country-card {
+        gap: 10px;
+    }
+
+    .country-card h4 {
+        font-size: 20px;
+    }
+
+    .country-card p {
+        font-size: 14px;
+    }
+
+    .subfooter {
+        padding: 30px 24px;
+    }
+
+    .subfooter p {
+        font-size: 20px;
+    }
+
+    .subfooter a {
+        font-size: 16px;
+    }
+
+    footer {
+        padding: 20px 24px;
+        gap: 10px;
+    }
+
+    /* .footer {
+        justify-content: center;
+        gap: 20px;
+    } */
+
+    .address {
+        gap: 10px;
+    }
+
+    .footer-logo h1 {
+        font-size: 20px;
+    }
+
+    .footer-logo p {
+        font-size: 13px;
+    }
+
+    .address p {
+        font-size: 14px;
+    }
+
+    .quick-link {
+        gap: 10px;
+    }
+
+    .quick-link a {
+        font-size: 13px;
+    }
+
+    footer p {
+        font-size: 14px;
+    }
+
+    .about {
+        padding: 50px 24px 20px;
+    }
+
+    .about p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .mission {
+        padding: 0px 24px 20px;
+    }
+
+    .mission p {
+        font-size: 16px;
+        text-align: justify;
+    }
+}
