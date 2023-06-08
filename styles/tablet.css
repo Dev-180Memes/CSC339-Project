@@ -226,4 +226,21 @@
         font-size: 16px;
         text-align: justify;
     }
+
+    .team {
+        padding: 0px 24px 20px;
+    }
+
+    .member img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .member h4 {
+        font-size: 18px;
+    }
+
+    .member p {
+        font-size: 15px;
+    }
 }

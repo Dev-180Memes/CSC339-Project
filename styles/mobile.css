@@ -210,4 +210,21 @@
     .mission p {
         font-size: 14px;
     }
+
+    .team {
+        padding: 0px 20px 20px;
+    }
+
+    .member img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .member h4 {
+        font-size: 16px;
+    }
+
+    .member p {
+        font-size: 13px;
+    }
 }
